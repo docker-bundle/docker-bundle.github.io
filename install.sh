@@ -6,7 +6,7 @@ DOCKER_BUNDLE_PATH=${HOME}/.docker-bundle/bin
 
 mkdir -p ${DOCKER_BUNDLE_PATH} && cd ${DOCKER_BUNDLE_PATH}
 
-curl https://raw.githubusercontent.com/docker-bundle/docker-bundle/v0.1.0/docker-bundle.py > docker-bundle
+curl https://raw.githubusercontent.com/docker-bundle/docker-bundle/stable/docker-bundle.py > docker-bundle
 
 chmod +x docker-bundle
 

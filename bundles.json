@@ -1,10 +1,12 @@
 {
   "default": {
     "url":"https://github.com/docker-bundle/bundle-default-template.git",
-    "desc": "Default bundle template"
+    "desc": "Default bundle template",
+    "type": "git"
   },
   "rails": {
     "url":"https://github.com/docker-bundle/rails.git",
-    "desc": "Rails bundle"
+    "desc": "Rails bundle",
+    "type": "git"
   }
 }
