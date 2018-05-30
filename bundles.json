@@ -8,5 +8,11 @@
     "url":"https://github.com/docker-bundle/rails.git",
     "desc": "Rails bundle",
     "type": "git"
+  },
+  "rails:pg-yarn": {
+    "url":"https://github.com/docker-bundle/rails.git",
+    "desc": "Rails bundle",
+    "type": "git",
+    "branch": "pg-yarn"
   }
 }
