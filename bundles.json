@@ -11,7 +11,7 @@
   },
   "rails:pg-yarn": {
     "url":"https://github.com/docker-bundle/rails.git",
-    "desc": "Rails bundle",
+    "desc": "Rails bundle for postgres and yarn",
     "type": "git",
     "branch": "pg-yarn"
   }
